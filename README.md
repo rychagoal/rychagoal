@@ -1,8 +1,8 @@
 # 🌿 Hello everyone!  
 
-As an **enthusiast in data analysis** with a background in the **biopharmaceutical industry**, I am eager to further develop my skills in **data science** and apply them to projects focused on **life science product development**. My main interests lie in **precision medicine, cancer research, and identifying anti-cancer targets** for effective therapies. I strongly believe that **machine learning and AI** will play a crucial role in advancing these fields.  
+As an **enthusiast in data analysis** with a background in the **biopharmaceutical industry**, I am eager to further develop my skills in **data science** and apply them to projects focused on **real life tasks**.  
 
-I am also passionate about **Python programming**, including **web development with Flask**.  
+I am passionate about **Python programming**, including **web development with Flask**, and **Data analytics**.  
 
 ---
 
