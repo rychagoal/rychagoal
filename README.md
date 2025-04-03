@@ -37,7 +37,7 @@ I am passionate about **Python programming**, including **web development with F
 
 ---
 
-## 📂 My Projects  
+## 📂 My Projects 
 
 🔹 **[Post Recommendation for Social Network](https://github.com/rychagoal/post_recommendation_social_network)**  
 *A backend API that recommends the top 5 most relevant posts on social media based on user data.*  
@@ -47,6 +47,27 @@ I am passionate about **Python programming**, including **web development with F
 
 🔹 **[Vangooo - Creative Intuition & Idea Exploration (Web Project)](https://vangooo.com/challenge/21)**  
 *My recent web project based on a **Telegram bot and Flask API** is about **developing creative intuition and unlocking new horizons for ideas and inspiration**. Our intuition is not just a "sixth sense," but a **powerful tool** that connects experience, emotions, and a scientific approach into a seamless creative flow.*  
+
+## 🧬 Featured Project: Liquid Biopsy Research Trends
+
+🔗 **[Liquid Biopsy PubMed Analysis](https://github.com/rychagoal/Liquid_biopsy_research_trends)**  
+This project analyzes global trends in liquid biopsy research using PubMed abstracts.  
+Key features:
+- Parsing and cleaning 9500+ abstracts using Python and NCBI API
+- EDA on top journals, keywords, and cancer types studied since 2010
+- Prepared data for a Tableau dashboard (coming soon)
+
+---
+
+## 📊 Other Data Analytics Projects
+
+🔹 **[Credit Repayment Behavior Analysis](https://github.com/rychagoal/Credit_repayment_behavior)**  
+Analysis of client repayment behavior, identifying chronic delayers and trends in overdue rates.
+
+🔹 **[Attendance Analysis in Education](https://github.com/rychagoal/Attendance_Analysis)**  
+Exploratory analysis of student attendance logs — focusing on teacher influence and patterns over time.
+
+
 
 ---
 
