@@ -54,8 +54,8 @@ Small Flask web application for interactive analysis of human protein abundance 
 🔹 **[scRNA-Seq Cell-Cell Communication](https://github.com/rychagoal/scRNA-Seq_cell-cell_communication)**  
 *A project focusing on single-cell RNA sequencing (scRNA-seq) analysis to infer **metabolite-based cell-cell communication** using MEBOCOST.*  
 
-🔹 **[Vangooo - Creative Intuition & Idea Exploration (Web Project)](https://vangooo.com/challenge/21)**  
-*My recent web project based on a **Telegram bot and Flask API** is about **developing creative intuition and unlocking new horizons for ideas and inspiration**. Our intuition is not just a "sixth sense," but a **powerful tool** that connects experience, emotions, and a scientific approach into a seamless creative flow.*  
+🔹 **Vangooo - Creative Intuition & Idea Exploration (Web Project)**  
+*My web project based on a **Telegram bot and Flask API** is about **developing creative intuition and unlocking new horizons for ideas and inspiration**. Our intuition is not just a "sixth sense," but a **powerful tool** that connects experience, emotions, and a scientific approach into a seamless creative flow.*  
 
 ## 🧬 Featured Project: Liquid Biopsy Research Trends
 
