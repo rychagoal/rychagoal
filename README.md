@@ -1,6 +1,6 @@
 # 🌿 Hello everyone!  
 
-As an **enthusiast in data analysis** with a background in the **biopharmaceutical industry**, I am eager to further develop my skills in **data science** and apply them to projects focused on **real life tasks**.  
+As an **enthusiast in data analysis** with a background in the **biopharmaceutical industry**, I am eager to further develop my skills in **analytical and programming skills** and apply them to projects focused on **real life tasks**.  
 
 I am passionate about **Python programming**, including **web development with Flask**, and **Data analytics**.  
 
@@ -13,17 +13,18 @@ I am passionate about **Python programming**, including **web development with F
 - **Flask**, **HTML5**, **CSS**, **Aiogram3** (Telegram bots)  
 - **Web API development**  
 
-### **Data Science & Analysis**  
+### **Data Analysis**  
 ![Jupyter](https://img.shields.io/badge/Jupyter_Notebook-F37626?style=flat-square&logo=jupyter)  
 - **NumPy**, **Pandas**, **Matplotlib**, **Seaborn**  
 - **Exploratory Data Analysis (EDA)**  
 - **Scikit-learn** for machine learning  
-- **Basic PyTorch**  
+- **Basic PyTorch**
 
 ### **Databases & Version Control**  
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql)  
 - **PostgreSQL**  
-- **Git & GitHub**  
+- **MySQL**  
+- **Git & GitHub, Bitbucket**  
 
 ### **Statistical & Bioinformatics Tools**  
 ![R](https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r)  
@@ -34,11 +35,19 @@ I am passionate about **Python programming**, including **web development with F
  
 - **Excel Intermediate II Certificate**  
 
+- **Jira, Confluence**  
+
+- **Agile principles, Scrum**  
 
 ---
 
 ## 📂 My Projects 
 
+### 🧬 Recent project:
+🔹 **[Protein data analysis](https://github.com/rychagoal/Protein_data_analysis)**  
+Small Flask web application for interactive analysis of human protein abundance and domain data.
+
+### Previous projects:
 🔹 **[Post Recommendation for Social Network](https://github.com/rychagoal/post_recommendation_social_network)**  
 *A backend API that recommends the top 5 most relevant posts on social media based on user data.*  
 
@@ -55,7 +64,7 @@ This project analyzes global trends in liquid biopsy research using PubMed abstr
 Key features:
 - Parsing and cleaning 9500+ abstracts using Python and NCBI API
 - EDA on top journals, keywords, and cancer types studied since 2010
-- Prepared data for a Tableau dashboard (coming soon)
+- Prepared data for a Tableau dashboard
 
 ---
 
